@@ -4,7 +4,7 @@
 
 ## 🔧 Technologies
 
-[![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=))](https://www.unrealengine.com/en-US/)
+[![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://www.unrealengine.com/en-US/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://git-scm.com/)
 
 ## 🔧 Stats
