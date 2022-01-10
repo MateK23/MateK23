@@ -6,7 +6,7 @@
 
 [![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=unrealengine&logoColor=FFFFFF&label=)](https://www.unrealengine.com/en-US/)
 [![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=blender&logoColor=FFFFFF&label=)](https://www.blender.org)
-[![CPP](https://img.shields.io/static/v1?style=for-the-badge&message=CPP&color=00599C&logo=cpp&logoColor=FFFFFF&label=)]
+![CPP](https://img.shields.io/static/v1?style=for-the-badge&message=CPP&color=00599C&logo=cpp&logoColor=FFFFFF&label=)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://git-scm.com/)
 [![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)](https://visualstudio.microsoft.com)
 [![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)](https://firebase.google.com/)
