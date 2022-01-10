@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mate%20Kerdikashvili&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Unreal%20Engine%20Game%20Developer&descAlignY=51&descAlign=78)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mate%20Kerdikashvili&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Unreal%20Engine%20Game%20Developer&descAlignY=51&descAlign=78)](https://github.com/MateK23)
 
 <br>
 
@@ -20,7 +20,7 @@
 <br>
 
 
-<a href="https://github.com/kyechan99/capsule-render" title="Footer"><img align="center" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/></a>
+<a href="https://github.com/MateK23" title="Footer"><img align="center" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/></a>
 
 
 <!--
