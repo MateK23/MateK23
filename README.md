@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mate%20Kerdikashvili&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Unreal Engine-Stack%20Software%20Developer&descAlignY=51&descAlign=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mate%20Kerdikashvili&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Unreal%20Engine%20Game%20Developer&descAlignY=51&descAlign=70)
 
 <br>
 
