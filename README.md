@@ -6,8 +6,11 @@
 
 [![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://www.unrealengine.com/en-US/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://git-scm.com/)
+[![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)](https://code.visualstudio.com/)
+[![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)](https://firebase.google.com/)
+[![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)](https://aws.amazon.com/)
 
-## 🔧 Stats
+## 🚀 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateK23&show_icons=true&theme=tokyonight&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateK23&layout=compact&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
