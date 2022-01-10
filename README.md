@@ -15,7 +15,7 @@
 ## 🚀 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateK23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=ture&card_width=300&layout=default)](https://github.com/MateK23)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateK23&layout=compact&theme=tokyonight&include_all_commits=true&count_private=ture&langs_count=10&card_width=300&layout=default)](https://github.com/MateK23)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateK23&layout=compact&theme=tokyonight&include_all_commits=true&count_private=ture&langs_count=10&card_width=200&layout=compact)](https://github.com/MateK23)
 
 <br>
 
