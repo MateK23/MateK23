@@ -2,7 +2,7 @@
 
 <br>
 
-## 🔧 Technologies
+## 🔧 Tech
 
 [![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=unrealengine&logoColor=FFFFFF&label=)](https://www.unrealengine.com/en-US/)
 [![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=blender&logoColor=FFFFFF&label=)](https://www.blender.org)
