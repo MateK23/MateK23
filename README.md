@@ -4,7 +4,8 @@
 
 ## 🔧 Technologies
 
-[![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal&color=0E1128&logo=unrealengine&logoColor=FFFFFF&label=)](https://www.unrealengine.com/en-US/)
+[![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal&20Engine&color=0E1128&logo=unrealengine&logoColor=FFFFFF&label=)](https://www.unrealengine.com/en-US/)
+[![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=blender&logoColor=FFFFFF&label=)](https://www.unrealengine.com/en-US/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://git-scm.com/)
 [![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)](https://code.visualstudio.com/)
 [![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)](https://firebase.google.com/)
