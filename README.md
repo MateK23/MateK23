@@ -1,7 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mate%20Kerdikashvili&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Unreal%20Engine%20Game%20Developer&descAlignY=51&descAlign=78)](https://github.com/MateK23)
 
-<br>
-
 ## 🔧 Tech
 
 [![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=unrealengine&logoColor=FFFFFF&label=)](https://www.unrealengine.com/en-US/)
