@@ -13,7 +13,7 @@
 ## 🚀 Stats
 
 [![MateK23](https://github-readme-stats.vercel.app/api?username=MateK23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=ture&card_width=700)](https://github.com/MateK23)
-<[![MateK23](https://github-readme-stats.vercel.app/api/top-langs/?username=MateK23&layout=compact&theme=tokyonight&include_all_commits=true&count_private=ture&langs_count=10&card_width=447)](https://github.com/MateK23)>
+<!---[![MateK23](https://github-readme-stats.vercel.app/api/top-langs/?username=MateK23&layout=compact&theme=tokyonight&include_all_commits=true&count_private=ture&langs_count=10&card_width=447)](https://github.com/MateK23)--->
 
 <br>
 
